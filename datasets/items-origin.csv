@@ -1,0 +1,57 @@
+id,sk,name,category,type,size,price,featured,gender_affinity,sugar
+1,,Amber Lager,beers,beer,4x355,4.99,TRUE,,REGULAR
+2,,Cream Stout,beers,beer,4x330,3.99,TRUE,F,REGULAR
+3,,Cola Flavored Soft Drink,sparkling,soda,6x3000,12.99,TRUE,M,REGULAR
+4,,Sparkling Water,waters,sparkling,6x1500,4.19,TRUE,,0%
+5,,Orange Juice,juices,juice,1x1000,2.99,TRUE,M,0%
+6,,Isotonic Beverage,isotonic,post-workout,6x1000,5.99,TRUE,,0%
+7,,Soja Beverage,other,soja,1x1000,2.99,,F,REGULAR
+8,,Lager Beer,beers,beer,12x355,11.99,,,REGULAR
+9,,Another Lager Beer,beers,beer,12x355,8.99,,F,REGULAR
+10,,Pisco,spirits,pisco,1x750,9.99,,M,REGULAR
+11,,Ginger Beer,sparkling,soda,6x3000,12.99,,,REGULAR
+12,,Water,waters,normal,6x1500,4.19,,,0%
+13,,Peach Nectar,juices,nectar,6x1500,6.99,,M,0%
+14,,Another Isotonic Beverage,isotonic,post-workout,6x1000,5.99,,,REGULAR
+15,,Coconut Water,other,coconut water,1x1000,4.99,TRUE,M,0%
+16,,Transparent Pisco,spirits,pisco,1x750,9.99,,,REGULAR
+17,,Aged Rum ,spirits,rum,1x700,12.99,,F,REGULAR
+18,,Whisky,spirits,whisky,1x750,37.99,,F,REGULAR
+19,,Orange Flavored Soft Drink,sparkling,soda,6x3000,12.99,,M,REGULAR
+20,,Flavored Water - Grapefruit,waters,flavored,6x1500,4.69,,,0%
+21,,Mango Nectar,juices,nectar,1x1000,2.99,,M,0%
+22,,No Sugar Energy Drink,energy,pre-workout,6x473,8.99,,,0%
+23,,Earl Grey Tea,other,tea,16 bags,1.79,,F,0%
+24,,Orange Flavored Soft Drink - No sugar,sparkling,soda,6x3000,12.99,,M,0%
+25,,Energy Drink,energy,pre-workout,6x473,8.99,,,REGULAR
+26,,Orange Nectar,juices,nectar,6x1750,4.99,,M,LOW
+27,,No sugar - Ginger Beer,sparkling,soda,6x3000,12.99,,,0%
+28,,Another Sparkling Water,waters,sparkling,6x1600,4.59,,,0%
+29,,Pineapple Nectar,juices,nectar,6x1750,4.99,,M,LOW
+30,,Another No Sugar Energy Drink,energy,pre-workout,6x473,8.99,,,0%
+31,,Green Tea ,other,tea,16 bags,1.79,,F,0%
+32,,Orange Pear Juice,juices,juice,1x1000,2.99,TRUE,M,0%
+33,,Black  Tea,other,tea,16 bags,1.79,,F,0%
+34,,No sugar - Cola flavored Beverage,sparkling,soda,6x3000,12.99,TRUE,M,0%
+35,,Lime Flavored Soft drink,sparkling,soda,6x3000,12.99,,M,REGULAR
+36,,Orange Flavored Soft Drink - No sugar,sparkling,soda,6x3000,12.99,,M,0%
+37,,Lemonade,juices,juice,1x1000,2.99,TRUE,M,0%
+38,,Another Another Isotonic Beverage ,isotonic,post-workout,6x600,4.99,,,REGULAR
+39,,Soja Beverage - Pineapple,other,soja,1x1000,2.99,,F,REGULAR
+40,,Another plain water,waters,normal,6x1600,4.59,,,0%
+41,,Flavored Water - Apple,waters,flavored,1x1600,0.99,,F,0%
+42,,No sugar - Lime Flavored Soft drink,sparkling,soda,6x3000,12.99,,M,0%
+43,,Tonic Water,sparkling,tonic,6x1500,12.99,,,REGULAR
+44,,Another flawored water - Lemonade,waters,flavored,1x1600,0.99,,,0%
+45,,Orange Nectar,juices,nectar,6x200,1.49,,M,0%
+46,,Isotonic Beverage - Grapefruit Flavour,isotonic,post-workout,6x600,4.99,,,0%
+47,,Soja Beverage - Apple,other,soja,1x1000,2.99,,F,REGULAR
+48,,Isotonic Beverage - Lime Flavour,isotonic,post-workout,6x600,4.99,,,0%
+49,,Pineapple Nectar,juices,nectar,6x200,1.49,,M,LOW
+50,,Another Flavored Water - with Vitamins,waters,flavored,4x500,4.99,,M,REGULAR
+51,,Isotonic Beverage-  Orange flavour,isotonic,post-workout,6x600,4.99,,,REGULAR
+52,,Coconut Water,other,coconut water,1x500,3.49,TRUE,F,0%
+53,,No sugar - Cola Flavored Soft Drink,sparkling,soda,6x3000,12.99,TRUE,M,0%
+54,,Flavored Water - with Vitamins,waters,flavored,4x500,4.99,,,REGULAR
+55,,Peach Nectar,juices,nectar,6x200,1.49,,M,LOW
+56,,Coconut Water,other,coconut water,1x250,1.69,,,0%
